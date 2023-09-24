@@ -1,3 +1,9 @@
+# Parallel QuickSort
+
+This was part of the final project for COSC-273 Parallel and Distributed Computing at Amherst College in Spring 2023. More details about implementation, optimization efforts, and future improvements are included in the PDF writeup in this repo.
+
+## Instructions from the original assignment
+
 In order to run this program on the HPC cluster, use the command
 
 ```
